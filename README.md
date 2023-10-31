@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishab1201" alt="rishab1201" /></a> </p>
 
 # 💫 About Me:
-<br><br><br>🌱 I’m currently learning<br>ReactJs and NodeJs<br><br>
+🌱 I’m currently learning<br>ReactJs and NodeJs<br><br>
 
 
 ## 🌐 Socials:
